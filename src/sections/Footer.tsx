@@ -68,8 +68,8 @@ const Footer = () => {
               <div className="flex items-center gap-3 text-[#797774] text-sm">
                 <MapPin className="w-4 h-4" />
                 <span>Tokyo, Japan</span>
-                <MapPin className="w-4 h-4" />
-                <span>Shenzhen, China</span>
+               // <MapPin className="w-4 h-4" />
+               // <span>Shenzhen, China</span>
               </div>
             </div>
           </div>

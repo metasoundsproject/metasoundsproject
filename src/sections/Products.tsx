@@ -15,7 +15,7 @@ const products: Product[] = [
     id: 1,
     name: 'Smart Keyboard Pro',
     price: '$499',
-    image: 'public/images/product-keyboard.png',
+    image: './images/product-keyboard.png',
     category: 'Smart Instruments',
     description: '61-key RGB backlit with intelligent chord recognition'
   },
@@ -23,7 +23,7 @@ const products: Product[] = [
     id: 2,
     name: 'MIDI Controller X',
     price: '$199',
-    image: '/images/product-controller.png',
+    image: './images/product-controller.png',
     category: 'Electronic Hardware',
     description: '16 velocity-sensitive pads, 8 assignable knobs'
   },
@@ -31,7 +31,7 @@ const products: Product[] = [
     id: 3,
     name: 'Synth Module S',
     price: '$379',
-    image: '/images/product-synth.png',
+    image: './images/product-synth.png',
     category: 'Electronic Hardware',
     description: 'Modular design with infinite sonic possibilities'
   },
@@ -39,7 +39,7 @@ const products: Product[] = [
     id: 4,
     name: 'BeatMaster Drum Machine',
     price: '$289',
-    image: '/images/product-drum.png',
+    image: './images/product-drum.png',
     category: 'Electronic Hardware',
     description: '16-step sequencer with classic drum sounds'
   },
@@ -47,7 +47,7 @@ const products: Product[] = [
     id: 5,
     name: 'Ultra Audio Interface',
     price: '$149',
-    image: '/images/product-audio.png',
+    image: './images/product-audio.png',
     category: 'Studio Gear',
     description: '24bit/192kHz with zero-latency monitoring'
   }

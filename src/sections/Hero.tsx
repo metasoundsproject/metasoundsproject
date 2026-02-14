@@ -155,7 +155,7 @@ const Hero = () => {
             {/* Product Image */}
             <div className="relative float">
               <img 
-                src="/images/hero-product.png" 
+                src="./images/hero-product.png" 
                 alt="MetaSounds MIDI Controller"
                 className="relative z-10 w-full max-w-lg mx-auto drop-shadow-2xl"
                 style={{

@@ -15,7 +15,7 @@ const products: Product[] = [
     id: 1,
     name: 'Smart Keyboard Pro',
     price: '$499',
-    image: '/images/product-keyboard.png',
+    image: 'public/images/product-keyboard.png',
     category: 'Smart Instruments',
     description: '61-key RGB backlit with intelligent chord recognition'
   },
